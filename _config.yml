@@ -1,1 +1,9 @@
 theme: minima
+title: GeoSocket
+tagline: "Geo location with social integration"
+description: "Free geo-location based services"
+url: https://docs.geosocket.io
+locale: "en_US"
+twitter:
+  username: geosocket
+  card: summary
