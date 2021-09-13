@@ -1,8 +1,8 @@
 theme: minima
-title: GeoSocket
+title: "GeoSocket.io"
 tagline: "Geo location with social integration"
-description: "Free geo-location based services"
-url: https://docs.geosocket.io
+description: "Free and ethic geo-location based services for humanity"
+url: "https://docs.geosocket.io"
 locale: "en_US"
 google_analytics: "G-TJ9QB4YRSZ"
 header_pages:
