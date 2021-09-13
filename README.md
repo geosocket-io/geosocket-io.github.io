@@ -1,8 +1,4 @@
-## GeoSocket.io documentation
-
 You can use the [GeoSocket.io OpenAPI](https://api.geosocket.io) to follow the local initiatives around or submit new content to the community.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Getting Started
 
