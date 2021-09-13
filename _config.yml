@@ -4,6 +4,14 @@ tagline: "Geo location with social integration"
 description: "Free geo-location based services"
 url: https://docs.geosocket.io
 locale: "en_US"
+header_pages:
+  - about.md
+minima:
+  date_format: "%b %-d, %Y"
+twitter_username: geosocket-io
+github_username:  geosocket-io
+linkedin_username: geosocket-io
+
 twitter:
-  username: geosocket
+  username: geosocket-io
   card: summary
