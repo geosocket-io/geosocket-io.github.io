@@ -1,12 +1,7 @@
-You can use the [GeoSocket.io OpenAPI](https://api.geosocket.io) to follow the local initiatives around or submit new content to the community.
+Links: 
 
-### Getting Started
-
-*TODO*
-
-### Guides & tutorial
-
-*TODO*
+* [API](https://api.geosocket.io)
+* [APP](https://app.geosocket.io)
 
 ### Support or Contact
 
